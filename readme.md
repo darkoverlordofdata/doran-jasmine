@@ -1,5 +1,8 @@
 # jasmine
 
-Port of jasmine v1.3.1
+Port of [jasmine](https://github.com/jasmine/jasmine.github.io) 1.3.1
+
+
+
 
 
