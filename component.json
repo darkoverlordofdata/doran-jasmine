@@ -1,0 +1,43 @@
+{
+  "name": "jasmine",
+  "template": "package",
+  "version": "0.0.1",
+  "vala": "0.26",
+  "authors": [],
+  "description": "jasmine",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "source": "src",
+  "files": [
+    "src/Block.vala",
+    "src/Core.vala",
+    "src/ConsoleReporter.vala",
+    "src/Delegates.vala",
+    "src/Env.vala",
+    "src/ExpectationResult.vala",
+    "src/jasmine.vala",
+    "src/Matchers.vala",
+    "src/MessageResult.vala",
+    "src/NestedResults.vala",
+    "src/MultiReporter.vala",
+    "src/Runner.vala",
+    "src/Spec.vala",
+    "src/Suite.vala",
+    "src/Queue.vala"
+  ],
+  "packages": [],
+  "includes": null,
+  "libraries": [
+    "m"
+  ],
+  "options": {
+    "VERSION": "0.0.1",
+    "RELEASE_NAME": "jasmine"
+  },
+  "definitions": [],
+  "copy": null,
+  "vapidir": "vapis",
+  "console": false,
+  "main": "CMakeLists.txt"
+}
